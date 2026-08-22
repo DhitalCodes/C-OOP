@@ -1,0 +1,1 @@
+// Write a C++ program to define the member functions of a class outside the class definition using the scope resolution operator ::.

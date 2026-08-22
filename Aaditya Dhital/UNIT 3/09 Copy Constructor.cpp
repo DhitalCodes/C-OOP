@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate a copy constructor by creating a new object as a copy of an existing object.

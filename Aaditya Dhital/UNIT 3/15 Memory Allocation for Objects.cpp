@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate dynamic memory allocation for an object using the new and delete operators.

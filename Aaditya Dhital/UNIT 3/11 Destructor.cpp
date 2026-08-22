@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate the use of a destructor and display a message when an object is destroyed.

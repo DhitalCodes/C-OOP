@@ -1,0 +1,1 @@
+// Write a C++ program in which a function returns an object of a class and display the returned object's data.

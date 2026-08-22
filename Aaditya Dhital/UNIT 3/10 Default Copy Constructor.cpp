@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate the working of the compiler-provided default copy constructor by copying one object into another.

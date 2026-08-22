@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate the difference between a structure and a class by creating objects of both and accessing their data members.

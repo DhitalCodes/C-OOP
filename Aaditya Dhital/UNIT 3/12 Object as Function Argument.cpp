@@ -1,0 +1,1 @@
+// Write a C++ program to pass an object as an argument to a member function and perform an operation using the data of both objects.
