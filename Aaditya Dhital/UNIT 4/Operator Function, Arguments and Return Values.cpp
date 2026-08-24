@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate an operator function as a class member that accepts an object as an argument and returns an object as the result.

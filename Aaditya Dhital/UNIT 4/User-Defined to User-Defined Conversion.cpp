@@ -1,0 +1,1 @@
+// Write a C++ program to convert an object of one class into an object of another class, demonstrating conversion using a routine in the source class and a conversion constructor in the destination class.

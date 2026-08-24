@@ -1,0 +1,1 @@
+Write a C++ program to demonstrate the use of a nameless temporary object while returning the result from an overloaded operator function.

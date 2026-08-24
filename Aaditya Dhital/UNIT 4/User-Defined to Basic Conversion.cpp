@@ -1,0 +1,1 @@
+// Write a C++ program to convert a class object into a basic data type using a conversion function.
