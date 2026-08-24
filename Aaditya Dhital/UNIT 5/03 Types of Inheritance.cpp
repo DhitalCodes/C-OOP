@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate simple, multilevel, and hierarchical inheritance using suitable classes.

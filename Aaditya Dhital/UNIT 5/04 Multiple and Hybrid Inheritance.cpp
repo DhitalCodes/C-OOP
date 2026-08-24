@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate multiple and hybrid inheritance using suitable base and derived classes.

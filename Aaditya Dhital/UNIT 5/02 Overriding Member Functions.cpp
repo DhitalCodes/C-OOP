@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate function overriding by defining the same member function in both a base class and a derived class.

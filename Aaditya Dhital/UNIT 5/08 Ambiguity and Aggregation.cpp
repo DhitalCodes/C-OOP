@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate ambiguity in multiple inheritance and resolve it using the scope resolution operator, and demonstrate aggregation by using an object of one class inside another class.
