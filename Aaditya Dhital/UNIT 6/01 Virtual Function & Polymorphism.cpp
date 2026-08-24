@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate a virtual function and runtime polymorphism by accessing a derived class object through a base class pointer.

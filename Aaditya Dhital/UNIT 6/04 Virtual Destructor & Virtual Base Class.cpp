@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate a virtual destructor and a virtual base class in inheritance.

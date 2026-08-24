@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate an abstract class using a pure virtual function and implement the function in a derived class.

@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate the difference between a concrete class and an abstract class and show the role of polymorphism using derived class objects.

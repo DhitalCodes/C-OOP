@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate a friend function and a friend class accessing the private data members of another class.

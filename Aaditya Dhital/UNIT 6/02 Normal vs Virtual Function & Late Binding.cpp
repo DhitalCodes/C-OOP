@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate the difference between a normal member function and a virtual member function when accessed using a base class pointer.

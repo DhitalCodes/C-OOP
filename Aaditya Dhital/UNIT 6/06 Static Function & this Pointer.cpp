@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate a static member function and the use of the this pointer to access the current object's data.
