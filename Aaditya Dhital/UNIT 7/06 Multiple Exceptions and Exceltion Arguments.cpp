@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate multiple exceptions using multiple catch blocks and pass an argument with the exception using throw.

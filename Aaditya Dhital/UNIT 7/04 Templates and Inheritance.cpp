@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate inheritance using a class template.

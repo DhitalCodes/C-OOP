@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate a function template that performs the same operation on different data types.

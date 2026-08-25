@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate exception handling using try, throw, and catch for an invalid operation such as division by zero.

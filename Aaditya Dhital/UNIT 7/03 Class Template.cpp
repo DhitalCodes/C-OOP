@@ -1,0 +1,1 @@
+// Write a C++ program to demonstrate a class template that can store and display data of different data types.
